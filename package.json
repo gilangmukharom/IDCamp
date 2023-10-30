@@ -1,0 +1,17 @@
+{
+  "name": "coffeemachine",
+  "version": "1.0.0",
+  "description": "latihan dicoding dengan event IDCamp",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "lodash": "^4.17.21"
+  }
+}
